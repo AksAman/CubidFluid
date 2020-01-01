@@ -1,1 +1,1 @@
-Play at https://aksaman.github.io/CubidFluid/
+A test webgl build from unity where i am testing some cheating softbody algorithms in games.
