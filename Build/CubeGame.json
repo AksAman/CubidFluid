@@ -1,0 +1,16 @@
+{
+"companyName": "aks",
+"productName": "sshnetTry",
+"productVersion": "0.1",
+"dataUrl": "CubeGame.data.unityweb",
+"wasmCodeUrl": "CubeGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "CubeGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
